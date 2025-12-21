@@ -1,0 +1,1 @@
+alt + d = search bar;
