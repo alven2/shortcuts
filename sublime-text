@@ -1,1 +1,12 @@
-ctrl + o
+ctrl + o = abrir nuevo archivo;
+crtl + s = guardar obvio;
+ctrl + n = crear nueva pestania de codigo;
+ctrl + w = para cerrar las pestanias de codigo de la ventana actual;
+Crtl + z = deshacer lo que hicimos;
+Ctrl + y = rehacer;
+Ctrl + / = comentario;
+shift + flecha arriba, abajo = para seleccionar de arriba a abajo sin mause;
+ctrl + click izquierdo = para seleccionar varias lineas para editarlas;
+ctrl + g = para buscar codigo por index;
+ctrl + shift + flecha arriba, abajo = para cambiar el codigo de linea;
+ctrl + shift + n = nueva ventana de codigo en cache;
