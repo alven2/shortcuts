@@ -1,6 +1,10 @@
-configurar usuario local
+-configurar usuario local
 git config --global user.name "alven"
 git config -- global user.email "ppokevaz@gmail.com"
 
-creando repositorio (path repostorio)
+-creando repositorio (path repostorio)
 git init
+
+
+-verificar el estado de repo
+git status
