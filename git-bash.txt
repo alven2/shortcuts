@@ -5,9 +5,12 @@ git config -- global user.email "ppokevaz@gmail.com"
 -creando repositorio (path repostorio)
 git init
 
--seleccionar todos los archivos del repo para precommitear
-git add .
-
 -verificar el estado de repo
 git status
+
+-seleccionar todos los archivos del repo para precommitear y ser detectado
+git add .
+
+-para commit (el -m es mensaje y es obli)
+git commit -m "hice este cambio"
 
