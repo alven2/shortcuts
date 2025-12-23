@@ -2,7 +2,7 @@
 git config --global user.name "alven"
 git config -- global user.email "ppokevaz@gmail.com"
 
--creando repositorio (path repostorio)
+-creando repositorio (path de projecto)
 git init
 
 -verificar el estado de repo
@@ -14,3 +14,5 @@ git add .
 -para commit (el -m es mensaje y es obli)
 git commit -m "hice este cambio"
 
+-para ver el historial de commits
+git log
