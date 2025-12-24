@@ -16,3 +16,11 @@ git commit -m "hice este cambio"
 
 -para ver el historial de commits
 git log
+
+-para cargar commit viejos or, nuevos
+git checkout "codigo del log"
+
+-para verificar la rama que estas actual
+git branch
+
+
