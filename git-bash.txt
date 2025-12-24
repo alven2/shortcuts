@@ -5,6 +5,11 @@ git config -- global user.email "ppokevaz@gmail.com"
 -creando repositorio (path de projecto)
 git init
 
+-conectar con un repo en github
+git remote add origin "url"
+
+-subir rama a github
+
 -verificar el estado de repo
 git status
 
