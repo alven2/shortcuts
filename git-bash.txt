@@ -23,4 +23,7 @@ git checkout "codigo del log"
 -para verificar la rama que estas actual
 git branch
 
+-para cambiar a la rama base
+git switch master
+
 
