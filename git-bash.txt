@@ -9,7 +9,7 @@ git init
 git remote add origin "url"
 
 -subir rama a github
-
+git push origin master
 -verificar el estado de repo
 git status
 
