@@ -1,3 +1,4 @@
+/ setup environment /
 -configurar usuario local
 git config --global user.name "alven"
 git config -- global user.email "ppokevaz@gmail.com"
@@ -8,8 +9,11 @@ git init
 -conectar con un repo en github
 git remote add origin "url"
 
+/ 
+
 -subir rama a github
 git push origin master
+
 -verificar el estado de repo
 git status
 
@@ -30,5 +34,17 @@ git branch
 
 -para cambiar a la rama base
 git switch master
+
+
+/ crossplatform pull push /
+
+-Traer solo los cambios (sin mergear aún)
+git fetch origin
+
+-Ver estado actualizado
+git status
+
+-Traer y aplicar los cambios
+git pull origin main
 
 
