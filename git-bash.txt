@@ -9,6 +9,8 @@ git init
 -conectar con un repo en github
 git remote add origin "url"
 
+// si te sale para poner cuenta, pon el username de github y la contra ponle el personal token.
+
 / 
 
 -subir rama a github
